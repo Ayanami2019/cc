@@ -1,5 +1,5 @@
 # Attention-Based Deep Neural Network for 3D Point Cloud Processing
-![](https://github.com/Userac123/cc/master/doc/overview_network.gif)  
+![](https://github.com/Userac123/cc/master/doc/overview_network.jpeg)  
 ## Installation
 Install [Tensorflow](https://www.tensorflow.org/install/). You may also need to install h5py. The code has been tested with python 3.5, tensorflow 1.7, CUDA 9.0 and cuDNN 7.0 on Ubuntu 16.04.
 ## Usage
